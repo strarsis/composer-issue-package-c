@@ -1,0 +1,13 @@
+{
+    "name": "test/package-c",
+    "description": "Package C",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "strarsis",
+            "email": "strarsis@gmail.com"
+        }
+    ],
+    "require": {}
+}
